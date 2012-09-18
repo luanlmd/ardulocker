@@ -1,6 +1,6 @@
 #include <avr/eeprom.h>
 #include <SoftwareSerial.h>
-#include <SimpleTimer.h>
+#include <SimpleTimer.h> // downloaded from http://arduino.cc/playground/Code/SimpleTimer
 
 const int LISTEN = 1;
 const int PROGRAM = 2;
